@@ -8,6 +8,7 @@
 *.elf
 *.bin
 *.dis
+*.imx
 
 # Linker output
 *.ilk
@@ -37,6 +38,7 @@
 *.i*86
 *.x86_64
 *.hex
+imxdownload
 
 # Debug files
 *.dSYM/
